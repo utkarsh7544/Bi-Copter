@@ -7,6 +7,8 @@ A coaxial bi-copter, pioneering a new technology for thrust vector control with 
 # Components Used
 -> ESP 32 and MPU-6050 were used to make Flight Controller.<br>
 -> A pair of sg90 servo motors were used to make Thrust Vectoring Control unit.<br>
--> 4500 mah 3S battery was used to pwer the system.<br>
+-> A pair of 1400kv BLDC motors.<br>
+-> A pair of 1045 wings.<br>
+-> 4500 mah 3S battery was used to power the system.<br>
 -> FlySky FS-i6 2.4G 6CH PPM RC Transmitter.<br>
 -> FLY SKY FS IA6B RF 2.4GHz 6CH receiver.<br>
