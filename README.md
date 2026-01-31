@@ -1,5 +1,5 @@
 # Bi-Copter
-A coaxial bi-copter using Thrust Vectoring Control instead of swashplate to control the flight
+A coaxial bi-copter using Thrust Vectoring Control instead of swashplate to control the flight.
 
 # Overview
 A coaxial bi-copter, pioneering a new technology for thrust vector control with a custom ESP 32 flight computer. Inspired from NASA's Ingenuity, the aircraft achieves flight by generating aerodynamic lift from two main points. Each point consists of a pair of propellers arranged coaxially (one above the other on the same axis). Thrust Vectoring was achieved using 2 sg90 servo motors giving 5 degrees range of motion. Frame was fabricated by 3d printed pla. Achieved a thrust-to-weight ratio of 2.4 with 1.8kg thrust and 750g mass, demonstrating high-performance.
